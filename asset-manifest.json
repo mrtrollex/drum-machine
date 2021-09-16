@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/drum-machine/static/css/main.4671483f.chunk.css",
+    "main.js": "/drum-machine/static/js/main.0605f427.chunk.js",
+    "main.js.map": "/drum-machine/static/js/main.0605f427.chunk.js.map",
+    "runtime-main.js": "/drum-machine/static/js/runtime-main.9d38d4fc.js",
+    "runtime-main.js.map": "/drum-machine/static/js/runtime-main.9d38d4fc.js.map",
+    "static/js/2.4a2955f7.chunk.js": "/drum-machine/static/js/2.4a2955f7.chunk.js",
+    "static/js/2.4a2955f7.chunk.js.map": "/drum-machine/static/js/2.4a2955f7.chunk.js.map",
+    "index.html": "/drum-machine/index.html",
+    "static/css/main.4671483f.chunk.css.map": "/drum-machine/static/css/main.4671483f.chunk.css.map",
+    "static/js/2.4a2955f7.chunk.js.LICENSE.txt": "/drum-machine/static/js/2.4a2955f7.chunk.js.LICENSE.txt",
+    "static/media/Cev_H2.ca244760.mp3": "/drum-machine/static/media/Cev_H2.ca244760.mp3",
+    "static/media/Dsc_Oh.5f33c029.mp3": "/drum-machine/static/media/Dsc_Oh.5f33c029.mp3",
+    "static/media/Heater-1.cb8d95b6.mp3": "/drum-machine/static/media/Heater-1.cb8d95b6.mp3",
+    "static/media/Heater-2.4ed25e5b.mp3": "/drum-machine/static/media/Heater-2.4ed25e5b.mp3",
+    "static/media/Heater-3.4c4d3fd0.mp3": "/drum-machine/static/media/Heater-3.4c4d3fd0.mp3",
+    "static/media/Heater-4_1.0c29815e.mp3": "/drum-machine/static/media/Heater-4_1.0c29815e.mp3",
+    "static/media/Heater-6.faf5d12a.mp3": "/drum-machine/static/media/Heater-6.faf5d12a.mp3",
+    "static/media/Kick_n_Hat.6dc44dc1.mp3": "/drum-machine/static/media/Kick_n_Hat.6dc44dc1.mp3",
+    "static/media/RP4_KICK_1.72881f4b.mp3": "/drum-machine/static/media/RP4_KICK_1.72881f4b.mp3",
+    "static/media/drummachinetitle.ade57573.png": "/drum-machine/static/media/drummachinetitle.ade57573.png",
+    "static/media/drums.a7a392f0.png": "/drum-machine/static/media/drums.a7a392f0.png",
+    "static/media/App.css": "/drum-machine/static/media/gta-background.115ba621.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9d38d4fc.js",
+    "static/js/2.4a2955f7.chunk.js",
+    "static/css/main.4671483f.chunk.css",
+    "static/js/main.0605f427.chunk.js"
+  ]
+}
