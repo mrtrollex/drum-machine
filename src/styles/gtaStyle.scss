@@ -1,0 +1,92 @@
+@import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap');
+
+/* Player Stats */
+
+.stats {
+  font-family: 'Coda', Arial, sans-serif;
+  font-size: 1.125rem;
+  font-weight: 800;
+  display: flex;
+  position: absolute;
+  top: 50px;
+  right: 50px;
+  text-align: right;
+  text-shadow: 2px 2px #000;
+  z-index: 2;
+
+  &-player-info {
+    margin-right: 30px;
+
+    * {
+      margin-bottom: 5px;
+    }
+
+    &-time {
+      color: #65c1f3;
+    }
+
+    &-money {
+      color: #00c788;
+    }
+
+    &-armor {
+      display: inline-block;
+      color: #b9b9b9;
+    }
+
+    &-health {
+      display: inline-block;
+      color: #ff9adf;
+    }
+
+    &-wanted-level {
+      display: flex;
+      justify-content: flex-end;
+    }
+
+    &-wanted-star {
+      margin-left: 5px;
+      color: #155b8b;
+
+      &.active {
+        color: #61c3f3;
+      }
+    }
+  }
+
+  &-player-weapon {
+    &-icon {
+      position: relative;
+
+      width: calc(70px + 3vw);
+      height: calc(80px + 3vw);
+      border: 6px solid transparent;
+      border-radius: 20%;
+      background-image: linear-gradient(#f3e35a, #f3e35a),
+        radial-gradient(circle at top left, #ff369b, #ff9cce);
+      background-origin: border-box;
+      background-clip: content-box, border-box;
+      box-shadow: 0 3px #000 inset, 0 3px #000;
+
+      &-gun {
+        position: absolute;
+        top: 75%;
+        left: 50%;
+        width: 70%;
+        transform: scale(1.7) translate(-31%, -57%) rotate(-15deg);
+      }
+    }
+  }
+}
+
+.location {
+  font-family: 'Pacifico', cursive;
+  font-size: calc(2.5em + 1.5vw);
+  position: absolute;
+  right: 90px;
+  bottom: 90px;
+  color: #28a060;
+  transform: rotate(-10deg);
+  text-shadow: 2px 2px #000;
+  z-index: 2;
+}

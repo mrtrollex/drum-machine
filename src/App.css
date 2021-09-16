@@ -1,0 +1,50 @@
+@import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap');
+
+body {
+  background: url(./assets/images/gta-background.jpg) no-repeat center center
+    fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+.padsContainer {
+  top: 50vh;
+  margin-left: 37vw;
+  margin-right: auto;
+  position: fixed;
+
+  width: 15rem;
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  grid-template-rows: 1fr 1fr 1fr;
+  grid-gap: 25px;
+}
+
+.font-effect-neon {
+  font-family: Pacifico, cursive;
+}
+
+
+
+.titleImage {
+  height: 35vh;
+  margin-left: 30vw;
+  margin-right: auto;
+}
+
+.display {
+  font-family: monoton;
+  font-size: 50px;
+  white-space: nowrap;
+  top: 30vh;
+  margin-left: 42vw;
+  margin-right: auto;
+  position: fixed;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 180px;
+  height: 50px;
+}

@@ -1,0 +1,22 @@
+.buttons {
+  height: 65px;
+  width: 85px;
+  border: none;
+  background: url(../assets/images/button.jpg);
+  border-radius: 20%;
+  opacity: 0.6;
+  outline: none;
+}
+
+.buttons:hover {
+  opacity: 1;
+}
+
+.buttonActive {
+  opacity: 1;
+  transform: translate(0, 1rem);
+}
+
+.padKeys {
+  font-size: 35px;
+}
